@@ -1,7 +1,6 @@
 # Custom-themes
 Custom themes for Files
 
-# Documenation
 [Documenation](https://files-community.github.io/docs/#/articles/custom-themes)
 
 This repository contains sample themes for [Files](https://www.microsoft.com/store/apps/9NGHP3DX8HDX), a modern file explorer that pushes the boundaries of the platform.
